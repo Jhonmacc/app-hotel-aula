@@ -1,4 +1,7 @@
 -- Script de criação do banco de dados para hotelaria com tipos de dados e relacionamentos
+-- Crie o banco de dados com o nome que desejar, dependendo do SGBD que esteja usando terá que setar ou criar o banco exemplo: 
+-- CREATE DATABASE IF NOT EXISTS `hotel` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */;
+-- USE `hotel`;
 
 --  tabela hospedes
 CREATE TABLE hospedes (
